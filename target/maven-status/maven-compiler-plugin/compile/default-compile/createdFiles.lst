@@ -1,0 +1,7 @@
+com\hackathon\eureka\RestfulHelloworld.class
+com\hackathon\eureka\stock\model\Stock.class
+com\hackathon\eureka\stock\bo\StockBo.class
+com\hackathon\eureka\stock\bo\impl\StockBoImpl.class
+com\hackathon\eureka\HibernateTestApp.class
+com\hackathon\eureka\stock\dao\StockDao.class
+com\hackathon\eureka\stock\dao\impl\StockDaoImpl.class
